@@ -2,7 +2,7 @@
 ## This is an implementation of ML Regression prediction project of Boston House Pricing Dataset on a web app
 ### Tools
 
-1. [Github Repo](https://github.com/rog-SARTHAK/boston-house-pricing)\
+1. [Github Repo](https://github.com/rog-SARTHAK/boston-house-pricing)
 2. Flask
 3. VS Code IDE
 
