@@ -1,5 +1,5 @@
 # boston-house-pricing
-## This is an implementation of ML Regression prediction project of Boston House Pricing Dataset on a web app
+## This is an implementation of ML Regression prediction project of Boston House Pricing Dataset on a flask form web app
 ### Tools
 
 1. [Github Repo](https://github.com/rog-SARTHAK/boston-house-pricing)
