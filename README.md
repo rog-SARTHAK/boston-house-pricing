@@ -7,15 +7,15 @@
 
 ### Steps
 
-Write the Transformation and Analysis in ipython notebook
+- Write the Transformation and Analysis in ipython notebook
 
-Make a Pickle file
+- Make a Pickle file
 
-Create a Github Repo
+- Create a Github Repo
 
-Clone and open in local VSCode
+- Clone and open in local VSCode
 
-Create a new environment in VS Code
+- Create a new environment in VS Code
 
 ```
 conda create -p venv python -y
@@ -29,3 +29,8 @@ In Terminal
 pip install -r requirements.txt
 
 ```
+
+
+
+![alt text](https://github.com/rog-SARTHAK/boston-house-pricing/blob/main/Assets/Screenshot%202024-06-27%20210118.png)
+
